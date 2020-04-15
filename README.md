@@ -1,0 +1,1 @@
+# php-cleancode-rename
